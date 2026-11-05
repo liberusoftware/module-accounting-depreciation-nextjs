@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-depreciation-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-depreciation",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-depreciation-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/depreciation.md",
+  "presentationPlan": "projects/accounting/nextjs/depreciation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
